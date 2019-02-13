@@ -13,7 +13,7 @@ describe 'Dog' do
 
       expect(fido.instance_variable_get(:@name)).to eq("Fido")
     end
-  
+
 
     describe '#name' do
       it 'reads the name of the dog from an instance variable @name' do
