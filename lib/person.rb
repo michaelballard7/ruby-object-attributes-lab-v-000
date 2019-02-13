@@ -1,12 +1,12 @@
 
-class Person 
+class Person
 
   def name=(name)
     @name
-  end 
+  end
 
   def name
     @name
-  end 
+  end
 
-end 
+end
